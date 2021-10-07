@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 💻 Check out my blog: anthonygonzales.dev
+- 📫 How to reach me: hello@anthonygonzales.dev
+- 📝 Here's my resume: www.anthonygonzales.dev/resume
+
 <!--
 **antgonzales/antgonzales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
