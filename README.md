@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 💻 Check out my blog: anthonygonzales.dev
 - 📫 How to reach me: hello@anthonygonzales.dev
 - 📝 Here's my resume: www.anthonygonzales.dev/resume
 
